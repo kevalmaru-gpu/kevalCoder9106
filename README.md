@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kevalCoder9106
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning many things
-- 💞️ I’m looking to collaborate on Game Development 
+- 👀 I’m interested in Web development and AI.
+- 🌱 I’m currently learning AI.
+- 💞️ I’m looking to collaborate on Web development. 
 - 📫 How to reach me email : kevalcoder@gmail.com
 
 <!---
