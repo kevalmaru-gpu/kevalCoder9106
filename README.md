@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keval Maru</h1>
 <h3 align="center">An Enthusiastic full-stack web developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-hruub9tof-kevalcoder9106.vercel.app/](https://portfolio-hruub9tof-kevalcoder9106.vercel.app/)
+- 👨‍💻 All of my projects are available in my [Portfolio](https://portfolio-hruub9tof-kevalcoder9106.vercel.app/)
 
 - 💬 Ask me about **React.js, Next.js, Node.js, Express.js, MySQL, Postgresql, Mongodb**
 
