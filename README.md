@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keval Maru</h1>
-<h3 align="center">ML | DL Enthusiastic</h3>
+<h3 align="center">ML | MERN Stack</h3>
 
 - 👨‍💻 All of my projects are available in my [Portfolio](https://portfolio-kohl-nu-70.vercel.app/)
 
